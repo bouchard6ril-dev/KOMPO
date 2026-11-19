@@ -1,16 +1,1 @@
-{
-  "name": "Élan Boucalais — Composition U13",
-  "short_name": "Composition U13",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "icons": [
-    {
-      "src": "assets/kompo-icon.png",
-      "sizes": "1254x1254",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"KOMPO","short_name":"KOMPO","display":"standalone","start_url":"./","icons":[{"src":"kompo-icon.png","sizes":"1024x1024","type":"image/png"}]}
